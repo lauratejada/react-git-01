@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React Laura Tejada
+          Learn React Laura Tejada Condori
         </a>
       </header>
     </div>
